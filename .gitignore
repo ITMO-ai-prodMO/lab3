@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+out/
+.pytest_cache/
+.mypy_cache/
+*.png
+*.pdf
+*.svg
+*.csv.download
